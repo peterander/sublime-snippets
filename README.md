@@ -6,7 +6,7 @@ Summary
 
 A collection of snippet configurations for the Sublime text editor to enable routine or predictably formatted pieces of code to be written more efficiently.
 
-Naming Convention
+Naming convention
 -----------------
 Files should be named as `[snippetname].sublime-snippet`.
 
