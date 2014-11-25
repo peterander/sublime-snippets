@@ -24,4 +24,4 @@ Example of file contents
 How to use
 ----------
 
-Type into your working file the name/trigger identified in the `<tabTrigger>` element of your snippet code. When auto-complete option appears, press enter and elaborate or edit as needed.
+First, save a file named and formatted as above into the appropriate Sublime Text directory (for example, "Sublime Text 2\Packages\User\"). Next, type into any working file the name/trigger identified in the `<tabTrigger>` element of your snippet code. As long as the file format you are editing corresponds with the one nindicated in the `<scope>` element of your snippet markup, an auto-complete option will appear. Press enter to choose the auto-complete option, then elaborate or edit as desired.
