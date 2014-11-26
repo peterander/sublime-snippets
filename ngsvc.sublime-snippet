@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[var ${0:AppName}.factory('${1:ServiceName}', function () { return {}; });</content>
+  <content><![CDATA[${0:AppName}.factory('${1:ServiceName}', function () { return {}; });</content>
   <tabTrigger>ngsvc</tabTrigger>
   <scope>source.js</scope>
   <description>AngularJS service declaration</description>
