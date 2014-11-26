@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[var ${0:AppName} = angular.module('${1:CtrlName}', []);]]></content>
+  <content><![CDATA[${0:AppName}.controller('${1:CtrlName}', []);]]></content>
   <tabTrigger>ngctrl</tabTrigger>
   <scope>source.js</scope>
   <description>AngularJS controller declaration</description>
