@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[var ${0:AppName} = angular.module('${1:CtrlName}', []);]]></content>
-  <tabTrigger>ngmod</tabTrigger>
+  <tabTrigger>ngctrl</tabTrigger>
   <scope>source.js</scope>
-  <description>AngularJS module declaration</description>
+  <description>AngularJS controller declaration</description>
 </snippet>
