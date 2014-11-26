@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[${0:AppName}.directive('${1:directiveName}', function () { return { restrict: '', templateUrl: '' }; });</content>
+  <tabTrigger>ngdir</tabTrigger>
+  <scope>source.js</scope>
+  <description>AngularJS directive declaration</description>
+</snippet>
