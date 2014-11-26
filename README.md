@@ -14,7 +14,7 @@ Example of file contents
 -------
 ```xml
 <snippet>
-  <content><![CDATA[var ${0:AppName} = angular.module('${0:AppName}, []);]]></content>
+  <content><![CDATA[var ${0:AppName} = angular.module('${0:AppName'}, []);]]></content>
   <tabTrigger>ngmod</tabTrigger>
   <scope>source.js</scope>
   <description>AngularJS module declaration</description>
